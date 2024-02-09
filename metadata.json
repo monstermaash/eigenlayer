@@ -2,6 +2,6 @@
   "name": "<OPERATOR_NAME>",
   "website": "<WEBSITE>",
   "description": "<DESCRIPTION>",
-  "logo": "www.example.com/logo.png>",
+  "logo": "<www.example.com/logo.png>",
   "twitter": "<YOUR_TWITTER>"
 }
